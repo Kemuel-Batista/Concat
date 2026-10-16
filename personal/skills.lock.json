@@ -1,0 +1,41 @@
+{
+  "corte-de-pausas": {
+    "archive_sha256": "2b8550d184d338852966a7f6c0548d67320ce8e29521eb4d432fb65ff5d0b7b9",
+    "files": {
+      "corte-de-pausas/SKILL.md": "a2312bfb61b031b9b4ebdd6feddb713fb4670b8ed90a26db0b03a835640d191e",
+      "corte-de-pausas/scripts/corta_pausas.py": "ea290580bcfaac37e4525b4f4171cdbeb568fc1c0dbe4b827f7981ed7b03a8ba",
+      "corte-de-pausas/scripts/transcreve.py": "fe0b0b3a8504a05557423d69346bb46b598287c59ef68e2c7cbe37c685cb7fd9"
+    }
+  },
+  "imagem-por-frase": {
+    "archive_sha256": "9d6113c9942c2bc08b902801b4dac4b59f8eb5d0aad065fa0f71d60bddd2680e",
+    "files": {
+      "imagem-por-frase/SKILL.md": "7dcb512fd85908137e4125a34e8a927dab73d73300a21ee5afe00b4539e3f881",
+      "imagem-por-frase/scripts/busca_imagem.py": "7f85f61072501be84e4c61e19b9388911ab167e808dd5050b026a81ca430751b"
+    }
+  },
+  "legenda-no-tempo": {
+    "archive_sha256": "caa2ec68b7f0c4ef7aa56caf9ff7ec38d0f8f001316f2e9588c0b6ea9832158f",
+    "files": {
+      "legenda-no-tempo/SKILL.md": "a902ff66805a60e76d944c84e197df44bc77f31f8a8dd035e4b1ddbcedb43120",
+      "legenda-no-tempo/scripts/frases.py": "b70ded981bfa11fbbfe4fa64e0624e8818440ab49ffeed4435756fb7c8f1b6b5",
+      "legenda-no-tempo/scripts/legenda.py": "c0a9f62d4c5ac8f7c5414118cc25966f66cc055695939c9252f5c942afb12e68",
+      "legenda-no-tempo/scripts/transcreve.py": "fe0b0b3a8504a05557423d69346bb46b598287c59ef68e2c7cbe37c685cb7fd9"
+    }
+  },
+  "projeto-premiere": {
+    "archive_sha256": "03161f7f8a28b30f6e6d23f49015e9415a9253c4fee8c9127d64c39c915a5cea",
+    "files": {
+      "projeto-premiere/SKILL.md": "33d8e5ee4e4434f589d50fd022c6591d443cf1e1623db487c9a085ca60df2032",
+      "projeto-premiere/scripts/frases.py": "b70ded981bfa11fbbfe4fa64e0624e8818440ab49ffeed4435756fb7c8f1b6b5",
+      "projeto-premiere/scripts/projeto_premiere.py": "c0db6d21973b479bcff6dbd52a59985849112b371dcd1959673a99fbf98d705b"
+    }
+  },
+  "video-vertical": {
+    "archive_sha256": "2ae3c08dfc1a99b667da9e7f8319d21966ee5148a46539f5fb6495128a0a9491",
+    "files": {
+      "video-vertical/SKILL.md": "a786b52f75028d7df819a1807f618d98237be3714b37b8a25015b39f952daa30",
+      "video-vertical/scripts/vertical.py": "8b0c434da3ea4d64577774708f266483c2d80ef22d0b40fad1b14d45d1159926"
+    }
+  }
+}

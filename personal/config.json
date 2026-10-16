@@ -1,0 +1,16 @@
+{
+  "profile": "complete",
+  "language": "pt",
+  "model": "small",
+  "pause_padding": 0.1,
+  "maximum_pause": 0.2,
+  "similarity": 0.85,
+  "transition_seconds": 0.08,
+  "api_host": "127.0.0.1",
+  "api_port": 7431,
+  "poll_seconds": 3,
+  "image_provider": "pixabay",
+  "image_planner": "codex",
+  "max_insertions": 12,
+  "projects_directory": "~/Videos/Concat-Pessoal"
+}
